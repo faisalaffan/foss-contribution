@@ -1,0 +1,49 @@
+# Open Source Contributions
+
+Substantial contributions to projects I use in production.
+
+## Highlights
+
+<!-- Featured contribution with full details -->
+<div align="center">
+  <h3>Featured Contribution</h3>
+  <a href="https://github.com/gin-gonic/gin">
+    <img src="https://img.shields.io/badge/gin--gonic%2Fgin-009688?style=for-the-badge&logo=go&logoColor=white" alt="gin-gonic/gin" />
+  </a>
+  <p><strong>Fixed memory leak in middleware</strong></p>
+  <a href="#">View PR #1234 →</a>
+</div>
+
+---
+
+## All Contributions
+
+### [gin-gonic/gin](https://github.com/gin-gonic/gin)
+
+> High-performance HTTP web framework for Go
+
+| Status | Type | Impact |
+|--------|------|--------|
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Bug Fix | Fixed memory leak in middleware chain |
+
+<a href="#">View PR #1234 →</a>
+
+---
+
+### [claude-code/mcp](https://github.com/claude-code/mcp)
+
+> Claude's Model Context Protocol SDK
+
+| Status | Type | Impact |
+|--------|------|--------|
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Feature | Added X capability |
+
+<a href="#">View PR #56 →</a>
+
+---
+
+## Contribution Guidelines
+
+Always open an issue first before submitting PRs. Follow the project's coding standards and include tests.
+
+<a href="https://github.com/faisalaffan"><img src="https://img.shields.io/badge/View%20All%20PRs%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
