@@ -18,7 +18,7 @@ Substantial contributions to projects I use in production.
 
 ## All Contributions
 
-### [gin-gonic/gin](https://github.com/gin-gonic/gin)
+**01.** **[gin-gonic/gin](https://github.com/gin-gonic/gin)**
 
 > High-performance HTTP web framework for Go
 
@@ -30,7 +30,7 @@ Substantial contributions to projects I use in production.
 
 ---
 
-### [claude-code/mcp](https://github.com/claude-code/mcp)
+**02.** **[claude-code/mcp](https://github.com/claude-code/mcp)**
 
 > Claude's Model Context Protocol SDK
 
@@ -47,3 +47,20 @@ Substantial contributions to projects I use in production.
 Always open an issue first before submitting PRs. Follow the project's coding standards and include tests.
 
 <a href="https://github.com/faisalaffan"><img src="https://img.shields.io/badge/View%20All%20PRs%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+## Legend
+
+| Status Badge | Meaning |
+|--------------|---------|
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | PR merged into codebase |
+| <img src="https://img.shields.io/badge/-Pending-f6c32c?style=flat-square" /> | PR under review |
+| <img src="https://img.shields.io/badge/-Closed-99172b?style=flat-square" /> | PR closed without merge |
+
+| Type Badge | Description |
+|------------|-------------|
+| Bug Fix | Resolved bug or vulnerability |
+| Feature | New functionality added |
+| Refactor | Code quality improvement |
+| Docs | Documentation update |
