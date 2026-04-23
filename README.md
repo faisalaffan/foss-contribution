@@ -24,9 +24,7 @@ Substantial contributions to projects I use in production.
 
 | Status | Type | Impact |
 |--------|------|--------|
-| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Bug Fix | Fixed memory leak in middleware chain |
-
-<a href="#">View PR #1234 →</a>
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Bug Fix | Fixed memory leak in middleware chain · <a href="#">View PR #1234 →</a> |
 
 ---
 
@@ -36,9 +34,7 @@ Substantial contributions to projects I use in production.
 
 | Status | Type | Impact |
 |--------|------|--------|
-| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Feature | Added X capability |
-
-<a href="#">View PR #56 →</a>
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Feature | Added X capability · <a href="#">View PR #56 →</a> |
 
 ---
 
