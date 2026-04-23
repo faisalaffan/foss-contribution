@@ -52,14 +52,18 @@ Always open an issue first before submitting PRs. Follow the project's coding st
 
 ## Legend
 
-| Status Badge | Meaning |
-|--------------|---------|
+### Status Badges
+
+| Badge | Meaning |
+|-------|---------|
 | <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | PR merged into codebase |
 | <img src="https://img.shields.io/badge/-Pending-f6c32c?style=flat-square" /> | PR under review |
 | <img src="https://img.shields.io/badge/-Closed-99172b?style=flat-square" /> | PR closed without merge |
 
-| Type Badge | Description |
-|------------|-------------|
+### Type Badges
+
+| Badge | Description |
+|-------|-------------|
 | Bug Fix | Resolved bug or vulnerability |
 | Feature | New functionality added |
 | Refactor | Code quality improvement |
