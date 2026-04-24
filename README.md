@@ -22,9 +22,9 @@ Substantial contributions to projects I use in production.
 
 > High-performance HTTP web framework for Go
 
-| Status | Type | Impact |
-|--------|------|--------|
-| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Bug Fix | Fixed memory leak in middleware chain · <a href="#">View PR #1234 →</a> |
+| Status | Type | Impact | PR |
+|--------|------|--------|-----|
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Bug Fix | Fixed memory leak in middleware chain | <a href="#">View PR #1234 →</a> |
 
 ---
 
@@ -32,9 +32,9 @@ Substantial contributions to projects I use in production.
 
 > Claude's Model Context Protocol SDK
 
-| Status | Type | Impact |
-|--------|------|--------|
-| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Feature | Added X capability · <a href="#">View PR #56 →</a> |
+| Status | Type | Impact | PR |
+|--------|------|--------|-----|
+| <img src="https://img.shields.io/badge/-Merged-2ea44f?style=flat-square" /> | Feature | Added X capability | <a href="#">View PR #56 →</a> |
 
 ---
 
