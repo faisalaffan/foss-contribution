@@ -38,14 +38,6 @@ Substantial contributions to projects I use in production.
 
 ---
 
-## Contribution Guidelines
-
-Always open an issue first before submitting PRs. Follow the project's coding standards and include tests.
-
-<a href="https://github.com/faisalaffan"><img src="https://img.shields.io/badge/View%20All%20PRs%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-
----
-
 ## Legend
 
 ### Status Badges
