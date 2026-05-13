@@ -18,6 +18,6 @@ Menggunakan gin sebagai HTTP framework di production. [Detail service/workload d
 
 ## Links
 
-- PR: [#1234](#)
+- PR: [gin-gonic/gin#235](https://github.com/gin-gonic/gin/pull/235)
 - Issue: [#xxx](#)
 - Discussion: [#xxx](#)

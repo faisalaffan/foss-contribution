@@ -13,7 +13,7 @@ Substantial contributions to projects I use in production.
 - Problem: Memory leak in middleware chain when handling concurrent requests
 - Fix: Properly released context after middleware execution
 - Status: Merged ✅
-- PR: #1234
+- PR: [gin-gonic/gin#235](https://github.com/gin-gonic/gin/pull/235)
 
 [Detail →](contributions/gin-gonic-gin.md)
 
@@ -23,7 +23,7 @@ Substantial contributions to projects I use in production.
 
 | Project | Type | Description | Status | Link |
 |---------|------|-------------|--------|------|
-| gin-gonic/gin | Bug Fix | Fixed memory leak in middleware | ✅ Merged | PR #1234 |
+| gin-gonic/gin | Bug Fix | Fixed memory leak in middleware | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
 
 ---
 
