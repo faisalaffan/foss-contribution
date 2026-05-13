@@ -1,4 +1,4 @@
-[🇮🇩 Bahasa Indonesia](README.id.md) | [🇬🇧 English](README.en.md)
+[🇬🇧 English](README.md) | [🇮🇩 Bahasa Indonesia](README.id.md)
 
 # Kontribusi Open Source
 

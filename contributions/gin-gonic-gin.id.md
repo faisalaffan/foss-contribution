@@ -1,4 +1,4 @@
-[🇮🇩 Bahasa Indonesia](gin-gonic-gin.id.md) | [🇬🇧 English](gin-gonic-gin.en.md)
+[🇬🇧 English](gin-gonic-gin.md) | [🇮🇩 Bahasa Indonesia](gin-gonic-gin.id.md)
 
 # gin-gonic/gin — Menambahkan Handler NoMethod untuk Error 405
 
