@@ -8,10 +8,10 @@ Substantial contributions to projects I use in production.
 
 ### [gin-gonic/gin](https://github.com/gin-gonic/gin)
 
-**Fixed memory leak in middleware**
+**Added NoMethod handler for 405 errors**
 
-- Problem: Memory leak in middleware chain when handling concurrent requests
-- Fix: Properly released context after middleware execution
+- Problem: 405 Method Not Allowed errors bypassed gin middleware and fell through to Go http.Router
+- Fix: Added `NoMethod` method mirroring `NoRoute` to allow middleware handling of 405 responses
 - Status: Merged ✅
 - PR: [gin-gonic/gin#235](https://github.com/gin-gonic/gin/pull/235)
 
@@ -23,7 +23,7 @@ Substantial contributions to projects I use in production.
 
 | Project | Type | Description | Status | Link |
 |---------|------|-------------|--------|------|
-| gin-gonic/gin | Bug Fix | Fixed memory leak in middleware | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
+| gin-gonic/gin | Feature | Added NoMethod handler for 405 errors | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
 
 ---
 
