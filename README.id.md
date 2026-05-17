@@ -25,7 +25,6 @@ Kontribusi substansial ke proyek yang saya gunakan di production.
 
 | Proyek | Tipe | Deskripsi | Status | Link |
 |--------|------|-----------|--------|------|
-| gin-gonic/gin | Bug Fix | Menambahkan handler NoMethod untuk error 405 | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
 | ollama/ollama | Bug Fix | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) |
 
 ---

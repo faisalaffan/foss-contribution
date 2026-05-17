@@ -25,7 +25,6 @@ Substantial contributions to projects I use in production.
 
 | Project | Type | Description | Status | Link |
 |---------|------|-------------|--------|------|
-| gin-gonic/gin | Bug Fix | Added NoMethod handler for 405 errors | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
 | ollama/ollama | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) |
 
 ---
