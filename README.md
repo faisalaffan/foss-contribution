@@ -10,9 +10,9 @@ Contributions to projects I use in production.
 
 Significant features, architectural changes, or non-obvious bug fixes.
 
-| Project       | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
-| ------------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| Project       | Language | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
+| ------------- | -------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
+| ollama/ollama | Go       | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
 
 ---
 

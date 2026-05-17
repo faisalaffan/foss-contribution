@@ -10,9 +10,9 @@ Kontribusi ke proyek yang saya gunakan di production.
 
 Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
-| Proyek        | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Detail                                                |
-| ------------- | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama | Bug Fix | Guard nil spinner di push handler setelah push berhasil      | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Detail                                                |
+| ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
+| ollama/ollama | Go     | Bug Fix | Guard nil spinner di push handler setelah push berhasil      | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
 
 ---
 
