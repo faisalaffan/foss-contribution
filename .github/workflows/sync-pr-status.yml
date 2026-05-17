@@ -1,0 +1,32 @@
+name: Sync PR Status
+
+on:
+  schedule:
+    - cron: '7 8 * * *'  # Daily at 08:07 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check and update PR statuses
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/sync-pr-status.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No status changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md README.id.md
+            git commit -m "chore: sync PR statuses [skip ci]"
+            git push
+          fi
