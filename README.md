@@ -8,16 +8,16 @@ Substantial contributions to projects I use in production.
 
 ## Highlights
 
-### [gin-gonic/gin](https://github.com/gin-gonic/gin)
+### [ollama/ollama](https://github.com/ollama/ollama)
 
-**Added NoMethod handler for 405 errors**
+**Guard nil spinner in push handler after successful push**
 
-- Problem: 405 Method Not Allowed errors bypassed gin middleware and fell through to Go `http.Router`
-- Fix: Added `NoMethod` method mirroring `NoRoute` to allow middleware handling of 405 responses
-- Status: Merged ✅
-- PR: [gin-gonic/gin#235](https://github.com/gin-gonic/gin/pull/235)
+- Problem: `PushHandler` success path lacked nil guard on `spinner.Stop()`, causing potential panic on blob-digest-only pushes
+- Fix: Added nil guard matching the existing error-path guard, plus test coverage for the edge case
+- Status: Pending ⏳
+- PR: [ollama/ollama#16201](https://github.com/ollama/ollama/pull/16201)
 
-[Detail →](contributions/gin-gonic-gin.md)
+[Detail →](contributions/ollama-ollama.md)
 
 ---
 
@@ -25,7 +25,8 @@ Substantial contributions to projects I use in production.
 
 | Project | Type | Description | Status | Link |
 |---------|------|-------------|--------|------|
-| gin-gonic/gin | Feature | Added NoMethod handler for 405 errors | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
+| gin-gonic/gin | Bug Fix | Added NoMethod handler for 405 errors | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
+| ollama/ollama | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) |
 
 ---
 

@@ -8,16 +8,16 @@ Kontribusi substansial ke proyek yang saya gunakan di production.
 
 ## Sorotan
 
-### [gin-gonic/gin](https://github.com/gin-gonic/gin)
+### [ollama/ollama](https://github.com/ollama/ollama)
 
-**Menambahkan handler NoMethod untuk error 405**
+**Guard nil spinner di push handler setelah push berhasil**
 
-- Masalah: Error 405 Method Not Allowed mem-bypass middleware gin dan jatuh ke Go `http.Router`
-- Solusi: Menambahkan method `NoMethod` yang mirroring `NoRoute` agar middleware bisa menangani response 405
-- Status: Merged ✅
-- PR: [gin-gonic/gin#235](https://github.com/gin-gonic/gin/pull/235)
+- Masalah: Path sukses `PushHandler` tidak memiliki nil guard pada `spinner.Stop()`, menyebabkan potensi panic pada push blob-digest-only
+- Solusi: Menambahkan nil guard yang konsisten dengan path error, plus test coverage untuk edge case
+- Status: Pending ⏳
+- PR: [ollama/ollama#16201](https://github.com/ollama/ollama/pull/16201)
 
-[Detail →](contributions/gin-gonic-gin.id.md)
+[Detail →](contributions/ollama-ollama.id.md)
 
 ---
 
@@ -25,7 +25,8 @@ Kontribusi substansial ke proyek yang saya gunakan di production.
 
 | Proyek | Tipe | Deskripsi | Status | Link |
 |--------|------|-----------|--------|------|
-| gin-gonic/gin | Feature | Menambahkan handler NoMethod untuk error 405 | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
+| gin-gonic/gin | Bug Fix | Menambahkan handler NoMethod untuk error 405 | ✅ Merged | [PR #235](https://github.com/gin-gonic/gin/pull/235) |
+| ollama/ollama | Bug Fix | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) |
 
 ---
 
