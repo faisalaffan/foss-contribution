@@ -51,6 +51,30 @@ _None yet — working on it._
 
 ---
 
+## Releases
+
+| Project                                 | Version | Date       | Type        |
+| --------------------------------------- | ------- | ---------- | ----------- |
+| [cukupgak](https://github.com/faisalaffan/cukupgak)   | v1.0.0  | 2026-05-13 | Stable      |
+| [chainnusa](https://github.com/faisalaffan/chainnusa)  | v0.1.0  | 2026-05-08 | Stable      |
+| [geostack](https://github.com/faisalaffan/geostack)   | v1.0.0  | 2026-05-07 | Stable      |
+| [creapud](https://github.com/faisalaffan/creapud)    | v1.0.0  | 2026-05-04 | Stable      |
+| [testcast](https://github.com/faisalaffan/testcast)   | v1.0.0  | 2026-05-04 | Stable      |
+| [belajardart](https://github.com/faisalaffan/belajardart) | v0.1.0  | 2026-04-30 | Pre-release |
+
+---
+
+## Packages & Libraries
+
+| Package                                                      | Ecosystem | Description                                             |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------- |
+| [claudio](https://github.com/faisalaffan/claudio)            | Dart      | Anthropic SDK for Dart ecosystem                        |
+| [testcast](https://github.com/faisalaffan/testcast)          | TypeScript | Opinionated Playwright TypeScript scaffolder           |
+| [pytik](https://github.com/faisalaffan/pytik)                | Python    | Python productivity tools & library                     |
+| [geostack](https://github.com/faisalaffan/geostack)          | TypeScript | Geospatial REST API boilerplate — Node.js, PostgreSQL/PostGIS |
+
+---
+
 ## Contribution Types
 
 - 🐛 Bug Fix

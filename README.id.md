@@ -51,6 +51,30 @@ Perbaikan kecil, typo, nil guard, dan improvement minor.
 
 ---
 
+## Rilis
+
+| Proyek                                   | Versi   | Tanggal    | Tipe        |
+| ---------------------------------------- | ------- | ---------- | ----------- |
+| [cukupgak](https://github.com/faisalaffan/cukupgak)   | v1.0.0  | 2026-05-13 | Stable      |
+| [chainnusa](https://github.com/faisalaffan/chainnusa)  | v0.1.0  | 2026-05-08 | Stable      |
+| [geostack](https://github.com/faisalaffan/geostack)   | v1.0.0  | 2026-05-07 | Stable      |
+| [creapud](https://github.com/faisalaffan/creapud)    | v1.0.0  | 2026-05-04 | Stable      |
+| [testcast](https://github.com/faisalaffan/testcast)   | v1.0.0  | 2026-05-04 | Stable      |
+| [belajardart](https://github.com/faisalaffan/belajardart) | v0.1.0  | 2026-04-30 | Pre-release |
+
+---
+
+## Packages & Libraries
+
+| Package                                                      | Ekosistem | Deskripsi                                                |
+| ------------------------------------------------------------ | --------- | -------------------------------------------------------- |
+| [claudio](https://github.com/faisalaffan/claudio)            | Dart      | Anthropic SDK untuk ekosistem Dart                       |
+| [testcast](https://github.com/faisalaffan/testcast)          | TypeScript | Opinionated Playwright TypeScript scaffolder            |
+| [pytik](https://github.com/faisalaffan/pytik)                | Python    | Tools & library produktivitas Python                     |
+| [geostack](https://github.com/faisalaffan/geostack)          | TypeScript | Boilerplate REST API geospasial — Node.js, PostgreSQL/PostGIS |
+
+---
+
 ## Tipe Kontribusi
 
 - 🐛 Bug Fix
