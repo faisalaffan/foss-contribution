@@ -2,30 +2,27 @@
 
 # Kontribusi Open Source
 
-Kontribusi substansial ke proyek yang saya gunakan di production.
+Kontribusi ke proyek yang saya gunakan di production.
 
 ---
 
-## Sorotan
+## Kontribusi Non-Trivial
 
-### [ollama/ollama](https://github.com/ollama/ollama)
+Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
-**Guard nil spinner di push handler setelah push berhasil**
-
-- Masalah: Path sukses `PushHandler` tidak memiliki nil guard pada `spinner.Stop()`, menyebabkan potensi panic pada push blob-digest-only
-- Solusi: Menambahkan nil guard yang konsisten dengan path error, plus test coverage untuk edge case
-- Status: Pending ⏳
-- PR: [ollama/ollama#16201](https://github.com/ollama/ollama/pull/16201)
-
-[Detail →](contributions/ollama-ollama.id.md)
+*Belum ada — sedang dikerjakan.*
 
 ---
 
-## Semua Kontribusi
+## Kontribusi Trivial
+
+Perbaikan kecil, typo, nil guard, dan improvement minor.
 
 | Proyek | Tipe | Deskripsi | Status | Link |
 |--------|------|-----------|--------|------|
 | ollama/ollama | Bug Fix | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) |
+
+[Detail →](contributions/ollama-ollama.id.md)
 
 ---
 

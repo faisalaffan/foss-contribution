@@ -2,30 +2,27 @@
 
 # Open Source Contributions
 
-Substantial contributions to projects I use in production.
+Contributions to projects I use in production.
 
 ---
 
-## Highlights
+## Non-Trivial Contributions
 
-### [ollama/ollama](https://github.com/ollama/ollama)
+Significant features, architectural changes, or non-obvious bug fixes.
 
-**Guard nil spinner in push handler after successful push**
-
-- Problem: `PushHandler` success path lacked nil guard on `spinner.Stop()`, causing potential panic on blob-digest-only pushes
-- Fix: Added nil guard matching the existing error-path guard, plus test coverage for the edge case
-- Status: Pending ⏳
-- PR: [ollama/ollama#16201](https://github.com/ollama/ollama/pull/16201)
-
-[Detail →](contributions/ollama-ollama.md)
+*None yet — working on it.*
 
 ---
 
-## All Contributions
+## Trivial Contributions
+
+Small fixes, typos, nil guards, and minor improvements.
 
 | Project | Type | Description | Status | Link |
 |---------|------|-------------|--------|------|
 | ollama/ollama | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) |
+
+[Detail →](contributions/ollama-ollama.md)
 
 ---
 
