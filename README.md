@@ -20,7 +20,9 @@ Significant features, architectural changes, or non-obvious bug fixes.
 
 Small fixes, typos, nil guards, and minor improvements.
 
-_None yet — working on it._
+| Project                              | Language  | Type | Description                         | Status    | Link                                                          | Detail                                                         |
+| ------------------------------------ | --------- | ---- | ----------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
+| firstcontributions/first-contributions | Markdown | Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
 
 ---
 

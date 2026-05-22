@@ -20,7 +20,9 @@ Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
 Perbaikan kecil, typo, nil guard, dan improvement minor.
 
-*Belum ada — sedang dikerjakan.*
+| Proyek                               | Bahasa    | Tipe | Deskripsi                                    | Status    | Link                                                          | Detail                                                         |
+| ------------------------------------ | --------- | ---- | -------------------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
+| firstcontributions/first-contributions | Markdown | Docs | Tambah Muhammad Faisal Affan ke daftar Contributors | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
 
 ---
 
