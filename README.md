@@ -10,9 +10,9 @@ Contributions to projects I use in production.
 
 Significant features, architectural changes, or non-obvious bug fixes.
 
-| Project       | Language | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
-| ------------- | -------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| [ollama/ollama](https://github.com/ollama/ollama)           | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)       | 🐛 Bug Fix  | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.md) |
+| No | Project       | Language | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
+| -- | ------------- | -------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
+| 1  | [ollama/ollama](https://github.com/ollama/ollama)           | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)       | 🐛 Bug Fix  | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.md) |
 
 ---
 
@@ -20,10 +20,10 @@ Significant features, architectural changes, or non-obvious bug fixes.
 
 Small fixes, typos, nil guards, and minor improvements.
 
-| Project                              | Language  | Type | Description                         | Status    | Link                                                          | Detail                                                         |
-| ------------------------------------ | --------- | ---- | ----------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
-| [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)     | ✨ Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
+| No | Project                              | Language  | Type | Description                         | Status    | Link                                                          | Detail                                                         |
+| -- | ------------------------------------ | --------- | ---- | ----------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)     | ✨ Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
+| 2  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
 
 ---
 
