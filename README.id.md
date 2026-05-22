@@ -80,7 +80,7 @@ Perbaikan kecil, typo, nil guard, dan improvement minor.
 
 ## Tipe Kontribusi
 
-- 🐛 🐛 Bug Fix
+- 🐛 Bug Fix
 - ✨ Feature
 - 📝 Docs
 - ⚡ Performance

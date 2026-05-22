@@ -80,7 +80,7 @@ Small fixes, typos, nil guards, and minor improvements.
 
 ## Contribution Types
 
-- 🐛 🐛 Bug Fix
+- 🐛 Bug Fix
 - ✨ Feature
 - 📝 Docs
 - ⚡ Performance
