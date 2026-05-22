@@ -12,7 +12,7 @@ Significant features, architectural changes, or non-obvious bug fixes.
 
 | Project       | Language | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
 | ------------- | -------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama           | Go       | Bug Fix  | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.md) |
+| [ollama/ollama](https://github.com/ollama/ollama)           | Go       | Bug Fix  | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.md) |
 
 ---
 
@@ -22,8 +22,8 @@ Small fixes, typos, nil guards, and minor improvements.
 
 | Project                              | Language  | Type | Description                         | Status    | Link                                                          | Detail                                                         |
 | ------------------------------------ | --------- | ---- | ----------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| firstcontributions/first-contributions | Markdown | Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
-| rstacruz/cheatsheets     | Dart     | Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Markdown | Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
+| [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | Dart     | Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
 
 ---
 
