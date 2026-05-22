@@ -22,8 +22,8 @@ Small fixes, typos, nil guards, and minor improvements.
 
 | No | Project                              | Language  | Type | Description                         | Status    | Link                                                          | Detail                                                         |
 | -- | ------------------------------------ | --------- | ---- | ----------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| 1  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)     | ✨ Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
-| 2  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
+| 2  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)     | ✨ Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
+| 1  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Add Muhammad Faisal Affan to Contributors list | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](https://github.com/firstcontributions/first-contributions/pull/117480) |
 
 ---
 
