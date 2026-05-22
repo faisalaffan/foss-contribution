@@ -90,8 +90,11 @@ Small fixes, typos, nil guards, and minor improvements.
 
 ## Legend
 
-| Badge      | Meaning                 |
-| ---------- | ----------------------- |
-| ✅ Merged  | PR merged into codebase |
-| ⏳ Pending | PR under review         |
-| ❌ Closed  | PR closed without merge |
+| Badge       | Meaning                                          |
+| ----------- | ------------------------------------------------ |
+| ✅ Merged   | PR merged into codebase                          |
+| ⏳ Pending  | PR under review                                  |
+| 📋 Reported | Issue reported, no pull request created          |
+| 🔀 Resolved | Merged via another pull request                  |
+| 📅 Scheduled | Scheduled to be merged later                    |
+| ❌ Closed   | PR closed without merge                          |

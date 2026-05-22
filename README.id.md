@@ -90,8 +90,11 @@ Perbaikan kecil, typo, nil guard, dan improvement minor.
 
 ## Legenda
 
-| Badge | Arti |
-|-------|------|
-| ✅ Merged | PR diterima dan digabungkan |
-| ⏳ Pending | PR dalam proses review |
-| ❌ Closed | PR ditutup tanpa digabungkan |
+| Badge        | Arti                                              |
+| ------------ | ------------------------------------------------- |
+| ✅ Merged    | PR diterima dan digabungkan                       |
+| ⏳ Pending   | PR dalam proses review                            |
+| 📋 Reported  | Issue dilaporkan, belum dibuat pull request       |
+| 🔀 Resolved  | Digabungkan melalui pull request lain             |
+| 📅 Scheduled | Dijadwalkan untuk digabungkan nanti               |
+| ❌ Closed    | PR ditutup tanpa digabungkan                      |
