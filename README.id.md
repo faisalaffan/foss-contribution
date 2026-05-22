@@ -10,9 +10,9 @@ Kontribusi ke proyek yang saya gunakan di production.
 
 Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
-| No | Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Study Case                                                |
-| -- | ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| 1  | [ollama/ollama](https://github.com/ollama/ollama)           | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)     | 🐛 Bug Fix  | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.id.md) |
+| No | Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Study Case                                                | PR Date      |
+| -- | ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | ------------ |
+| 1  | [ollama/ollama](https://github.com/ollama/ollama)           | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)     | 🐛 Bug Fix  | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.id.md) | 17 May 2026 |
 
 ---
 
@@ -20,10 +20,10 @@ Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
 Perbaikan kecil, typo, nil guard, dan improvement minor.
 
-| No | Proyek                               | Bahasa    | Tipe | Deskripsi                                    | Status    | Link                                                          | Study Case                                                         |
-| -- | ------------------------------------ | --------- | ---- | -------------------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| 2  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)   | ✨ Feature  | Tambah Dart cheatsheet dengan Flutter quick reference    | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](contributions/rstacruz-cheatsheets.id.md) |
-| 1  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Tambah Muhammad Faisal Affan ke daftar Contributors | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](contributions/firstcontributions-first-contributions.id.md) |
+| No | Proyek                               | Bahasa    | Tipe | Deskripsi                                    | Status    | Link                                                          | Study Case                                                         | PR Date      |
+| -- | ------------------------------------ | --------- | ---- | -------------------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ------------ |
+| 2  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)   | ✨ Feature  | Tambah Dart cheatsheet dengan Flutter quick reference    | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](contributions/rstacruz-cheatsheets.id.md) | 22 May 2026 |
+| 1  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Tambah Muhammad Faisal Affan ke daftar Contributors | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](contributions/firstcontributions-first-contributions.id.md) | 22 May 2026 |
 
 ---
 
