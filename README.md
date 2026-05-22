@@ -12,7 +12,8 @@ Significant features, architectural changes, or non-obvious bug fixes.
 
 | Project       | Language | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
 | ------------- | -------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama | Go       | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| ollama/ollama           | Go       | Bug Fix  | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.md) |
+| rstacruz/cheatsheets     | Dart     | Feature  | Add Dart cheatsheet with Flutter quick reference        | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
 
 ---
 

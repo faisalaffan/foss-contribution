@@ -12,7 +12,8 @@ Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
 | Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Detail                                                |
 | ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama | Go     | Bug Fix | Guard nil spinner di push handler setelah push berhasil      | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| ollama/ollama           | Go     | Bug Fix  | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| rstacruz/cheatsheets     | Dart   | Feature  | Tambah Dart cheatsheet dengan Flutter quick reference    | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](https://github.com/rstacruz/cheatsheets/pull/2219) |
 
 ---
 
