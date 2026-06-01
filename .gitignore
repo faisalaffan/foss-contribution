@@ -17,5 +17,8 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
+# git-crypt secret keys (back up separately)
+.git-crypt/keys/
+
 # Design specs
 docs/superpowers/
