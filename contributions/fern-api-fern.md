@@ -1,6 +1,6 @@
 [🇬🇧 English](fern-api-fern.md) | [🇮🇩 Bahasa Indonesia](fern-api-fern.id.md)
 
-# fern-api/fern — Report `anySignal()` Race Condition in TypeScript SDK Generator
+# fern-api/fern — Fix `anySignal()` Race Condition in TypeScript SDK Generator
 
 ## Context
 
@@ -28,5 +28,6 @@ Provided:
 
 ## Links
 
+- PR: [fern-api/fern#16153](https://github.com/fern-api/fern/pull/16153)
 - Issue: [fern-api/fern#16151](https://github.com/fern-api/fern/issues/16151)
 - Downstream fix: [latitude-dev/latitude-llm#3336](https://github.com/latitude-dev/latitude-llm/pull/3336)
