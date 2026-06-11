@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ahmadrosid/tinyclaw",
+    "title": "AI Personal Assistant",
+    "description": "Add PathGuard to prevent path traversal in write_file/delete_file",
+    "stars": "26",
+    "type": "security",
+    "status": "merged",
+    "language": "TypeScript",
+    "link": "https://github.com/ahmadrosid/tinyclaw/pull/4",
+    "date": "2026-06-04",
+    "highlighted": true
+  },
+  {
+    "name": "ollama/ollama",
+    "title": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Guard nil spinner in push handler after successful push",
+    "stars": "173k+",
+    "type": "bugfix",
+    "status": "pending",
+    "language": "Go",
+    "link": "https://github.com/ollama/ollama/pull/16201",
+    "date": "2026-05-17",
+    "highlighted": true
+  },
+  {
+    "name": "stdlib-js/stdlib",
+    "title": "The fundamental numerical library for JavaScript and TypeScript.",
+    "description": "Add stats/incr/nanminabs — incremental minimum absolute value ignoring NaN",
+    "stars": "5.8k+",
+    "type": "feature",
+    "status": "pending",
+    "language": "JavaScript",
+    "link": "https://github.com/stdlib-js/stdlib/pull/12246",
+    "date": "2026-05-22",
+    "highlighted": false
+  },
+  {
+    "name": "fern-api/fern",
+    "title": "Input OpenAPI. Output SDKs and Docs.",
+    "description": "Fix anySignal() race condition between aborted check and addEventListener",
+    "stars": "3.6k+",
+    "type": "bugfix",
+    "status": "closed",
+    "language": "TypeScript",
+    "link": "https://github.com/fern-api/fern/pull/16153",
+    "date": "2026-06-01",
+    "highlighted": false
+  },
+  {
+    "name": "rstacruz/cheatsheets",
+    "title": "Cheatsheets for web development — devhints.io",
+    "description": "Add Dart cheatsheet with Flutter quick reference",
+    "stars": "14k+",
+    "type": "feature",
+    "status": "pending",
+    "language": "Dart",
+    "link": "https://github.com/rstacruz/cheatsheets/pull/2219",
+    "date": "2026-05-22",
+    "highlighted": false
+  },
+  {
+    "name": "firstcontributions/first-contributions",
+    "title": "Help beginners to contribute to open source projects",
+    "description": "Add Muhammad Faisal Affan to Contributors list",
+    "stars": "54k+",
+    "type": "docs",
+    "status": "merged",
+    "language": "Markdown",
+    "link": "https://github.com/firstcontributions/first-contributions/pull/117480",
+    "date": "2026-05-22",
+    "highlighted": false
+  }
+]
