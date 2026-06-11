@@ -12,7 +12,8 @@ Significant features, architectural changes, or non-obvious bug fixes.
 
 | Project       | Language | Type    | Description                                             | Status     | Link                                                     | Detail                                                |
 | ------------- | -------- | ------- | ------------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama | Go       | Bug Fix | Guard nil spinner in push handler after successful push | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| ollama/ollama     | Go         | Bug Fix  | Guard nil spinner in push handler after successful push   | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| tinyclaw/tinyclaw | TypeScript | Security | Add PathGuard to prevent path traversal in write/delete    | ✅ Merged  | [PR #4](https://github.com/ahmadrosid/tinyclaw/pull/4)    | [Detail](contributions/tinyclaw-tinyclaw.md)          |
 
 ---
 

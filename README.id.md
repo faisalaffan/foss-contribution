@@ -12,7 +12,8 @@ Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
 | Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Detail                                                |
 | ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama | Go     | Bug Fix | Guard nil spinner di push handler setelah push berhasil      | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| ollama/ollama     | Go         | Bug Fix  | Guard nil spinner di push handler setelah push berhasil    | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
+| tinyclaw/tinyclaw | TypeScript | Security | PathGuard cegah path traversal di write_file/delete_file    | ✅ Merged  | [PR #4](https://github.com/ahmadrosid/tinyclaw/pull/4)    | [Detail](contributions/tinyclaw-tinyclaw.id.md)       |
 
 ---
 
