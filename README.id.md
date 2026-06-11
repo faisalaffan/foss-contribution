@@ -10,10 +10,12 @@ Kontribusi ke proyek yang saya gunakan di production.
 
 Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
-| Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Detail                                                |
-| ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- |
-| ollama/ollama     | Go         | Bug Fix  | Guard nil spinner di push handler setelah push berhasil    | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](https://github.com/ollama/ollama/pull/16201) |
-| tinyclaw/tinyclaw | TypeScript | Security | PathGuard cegah path traversal di write_file/delete_file    | ✅ Merged  | [PR #4](https://github.com/ahmadrosid/tinyclaw/pull/4)    | [Detail](contributions/tinyclaw-tinyclaw.id.md)       |
+| No | Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Study Case                                                | PR Date      |
+| -- | ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | ------------ |
+| 4  | [ahmadrosid/tinyclaw](https://github.com/ahmadrosid/tinyclaw) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🔒 Security | PathGuard cegah path traversal di write_file/delete_file | ✅ Merged | [PR #4](https://github.com/ahmadrosid/tinyclaw/pull/4) | [Detail](contributions/tinyclaw-tinyclaw.id.md) | 12 Jun 2026 |
+| 3  | [fern-api/fern](https://github.com/fern-api/fern)           | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🐛 Bug Fix  | Perbaiki race condition `anySignal()` antara aborted check dan addEventListener | ❌ Closed | [PR #16153](https://github.com/fern-api/fern/pull/16153) | [Detail](contributions/fern-api-fern.id.md) | 1 Jun 2026 |
+| 2  | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)     | [JavaScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/JavaScript.md) | ✨ Feature  | Tambah `stats/incr/nanminabs` — incremental minimum absolute value yang mengabaikan NaN | ⏳ Pending | [PR #12246](https://github.com/stdlib-js/stdlib/pull/12246) | [Detail](contributions/stdlib-js-stdlib.id.md) | 22 May 2026 |
+| 1  | [ollama/ollama](https://github.com/ollama/ollama)           | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)     | 🐛 Bug Fix  | Guard nil spinner di push handler setelah push berhasil | ⏳ Pending | [PR #16201](https://github.com/ollama/ollama/pull/16201) | [Detail](contributions/ollama-ollama.id.md) | 17 May 2026 |
 
 ---
 
@@ -21,7 +23,10 @@ Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
 Perbaikan kecil, typo, nil guard, dan improvement minor.
 
-*Belum ada — sedang dikerjakan.*
+| No | Proyek                               | Bahasa    | Tipe | Deskripsi                                    | Status    | Link                                                          | Study Case                                                         | PR Date      |
+| -- | ------------------------------------ | --------- | ---- | -------------------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ------------ |
+| 2  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)   | ✨ Feature  | Tambah Dart cheatsheet dengan Flutter quick reference    | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](contributions/rstacruz-cheatsheets.id.md) | 22 May 2026 |
+| 1  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Tambah Muhammad Faisal Affan ke daftar Contributors | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](contributions/firstcontributions-first-contributions.id.md) | 22 May 2026 |
 
 ---
 
@@ -88,8 +93,11 @@ Perbaikan kecil, typo, nil guard, dan improvement minor.
 
 ## Legenda
 
-| Badge | Arti |
-|-------|------|
-| ✅ Merged | PR diterima dan digabungkan |
-| ⏳ Pending | PR dalam proses review |
-| ❌ Closed | PR ditutup tanpa digabungkan |
+| Badge        | Arti                                              |
+| ------------ | ------------------------------------------------- |
+| ✅ Merged    | PR diterima dan digabungkan                       |
+| ⏳ Pending   | PR dalam proses review                            |
+| 📋 Reported  | Issue dilaporkan, belum dibuat pull request       |
+| 🔀 Resolved  | Digabungkan melalui pull request lain             |
+| 📅 Scheduled | Dijadwalkan untuk digabungkan nanti               |
+| ❌ Closed    | PR ditutup tanpa digabungkan                      |

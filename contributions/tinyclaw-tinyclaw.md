@@ -1,6 +1,6 @@
 [🇬🇧 English](tinyclaw-tinyclaw.md) | [🇮🇩 Bahasa Indonesia](tinyclaw-tinyclaw.id.md)
 
-# tinyclaw/tinyclaw — Add PathGuard to prevent path traversal in write_file/delete_file
+# ahmadrosid/tinyclaw — Add PathGuard to prevent path traversal in write_file/delete_file
 
 ## Context
 
