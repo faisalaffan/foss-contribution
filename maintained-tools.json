@@ -10,6 +10,12 @@
     "watchers": 1,
     "downloads": 0,
     "topics": ["ai", "anthropic", "claude", "dart", "flutter", "package"],
+    "store": {
+      "registry": "pub.dev",
+      "packageName": "claudio_sdk",
+      "url": "https://pub.dev/packages/claudio_sdk",
+      "published": false
+    },
     "link": "https://github.com/faisalaffan/claudio",
     "createdAt": "2026-04-25",
     "latestRelease": null
@@ -25,6 +31,12 @@
     "watchers": 1,
     "downloads": 0,
     "topics": ["automated-testing", "qa-automation"],
+    "store": {
+      "registry": "npm",
+      "packageName": "testcast",
+      "url": "https://www.npmjs.com/package/testcast",
+      "published": false
+    },
     "link": "https://github.com/faisalaffan/testcast",
     "createdAt": "2026-04-29",
     "latestRelease": {
@@ -43,6 +55,12 @@
     "watchers": 1,
     "downloads": 0,
     "topics": ["library", "productivity", "python", "python3", "tools"],
+    "store": {
+      "registry": "PyPI",
+      "packageName": "pytik-utils",
+      "url": "https://pypi.org/project/pytik-utils",
+      "published": false
+    },
     "link": "https://github.com/faisalaffan/pytik",
     "createdAt": "2026-05-13",
     "latestRelease": null
@@ -58,6 +76,7 @@
     "watchers": 1,
     "downloads": 0,
     "topics": ["geospatial", "mapbox", "postgis"],
+    "store": null,
     "link": "https://github.com/faisalaffan/geostack",
     "createdAt": "2026-05-06",
     "latestRelease": {
