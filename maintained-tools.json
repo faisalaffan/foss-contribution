@@ -1,0 +1,56 @@
+[
+  {
+    "name": "faisalaffan/claudio",
+    "title": "Anthropic SDK For Dart Ecosystem",
+    "description": "Anthropic SDK for Dart ecosystem",
+    "ecosystem": "Dart",
+    "language": "Dart",
+    "stars": "1",
+    "topics": ["ai", "anthropic", "claude", "dart", "flutter", "package"],
+    "link": "https://github.com/faisalaffan/claudio",
+    "createdAt": "2026-04-25",
+    "latestRelease": null
+  },
+  {
+    "name": "faisalaffan/testcast",
+    "title": "Opinionated Playwright TypeScript scaffolder — cast your E2E architecture once, test forever.",
+    "description": "Opinionated Playwright TypeScript scaffolder",
+    "ecosystem": "TypeScript",
+    "language": "TypeScript",
+    "stars": "1",
+    "topics": ["automated-testing", "qa-automation"],
+    "link": "https://github.com/faisalaffan/testcast",
+    "createdAt": "2026-04-29",
+    "latestRelease": {
+      "version": "v1.0.0",
+      "date": "2026-05-04"
+    }
+  },
+  {
+    "name": "faisalaffan/pytik",
+    "title": "Don't be the pitik. use PYTIK",
+    "description": "Python productivity tools & library",
+    "ecosystem": "Python",
+    "language": "Python",
+    "stars": "1",
+    "topics": ["library", "productivity", "python", "python3", "tools"],
+    "link": "https://github.com/faisalaffan/pytik",
+    "createdAt": "2026-05-13",
+    "latestRelease": null
+  },
+  {
+    "name": "faisalaffan/geostack",
+    "title": "A starter boilerplate for building geospatial REST APIs with Node.js, PostgreSQL/PostGIS, and Docker.",
+    "description": "Geospatial REST API boilerplate — Node.js, PostgreSQL/PostGIS",
+    "ecosystem": "TypeScript",
+    "language": "TypeScript",
+    "stars": "1",
+    "topics": ["geospatial", "mapbox", "postgis"],
+    "link": "https://github.com/faisalaffan/geostack",
+    "createdAt": "2026-05-06",
+    "latestRelease": {
+      "version": "v1.0.0",
+      "date": "2026-05-07"
+    }
+  }
+]
