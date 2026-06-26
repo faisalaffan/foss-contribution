@@ -1,5 +1,29 @@
 [
   {
+    "name": "nuxt/nuxt",
+    "title": "The full-stack Vue framework",
+    "description": "Add useDebounce composable — reactive debouncing, auto-imported, SSR-safe, zero dependencies",
+    "stars": "60.5k+",
+    "type": "feature",
+    "status": "pending",
+    "language": "TypeScript",
+    "link": "https://github.com/nuxt/nuxt/pull/35453",
+    "date": "2026-06-26",
+    "highlighted": true
+  },
+  {
+    "name": "nuxt/nuxt",
+    "title": "The full-stack Vue framework",
+    "description": "Wrap new URL() in try-catch at 6 call sites to prevent crashes on malformed user input",
+    "stars": "60.5k+",
+    "type": "bugfix",
+    "status": "pending",
+    "language": "TypeScript",
+    "link": "https://github.com/nuxt/nuxt/pull/35449",
+    "date": "2026-06-26",
+    "highlighted": true
+  },
+  {
     "name": "ahmadrosid/tinyclaw",
     "title": "AI Personal Assistant",
     "description": "Add PathGuard to prevent path traversal in write_file/delete_file",
