@@ -11,19 +11,7 @@
     "date": "2026-06-27",
     "highlighted": false
   },
-  {
-    "name": "microsoft/playwright",
-    "title": "Browser automation framework",
-    "description": "Hoist 6 repeatedly-compiled regex literals to module-level constants in user-agent parser and cookie parser",
-    "stars": "91.7k+",
-    "type": "perf",
-    "status": "closed",
-    "language": "TypeScript",
-    "link": "https://github.com/microsoft/playwright/pull/41501",
-    "date": "2026-06-27",
-    "highlighted": false
-  },
-  {
+{
     "name": "microsoft/playwright",
     "title": "Browser automation framework",
     "description": "Replace empty catch in ariaSnapshot with debugLogger; throw on fixture integrity violations instead of silent state corruption",
@@ -35,19 +23,7 @@
     "date": "2026-06-27",
     "highlighted": false
   },
-  {
-    "name": "microsoft/playwright",
-    "title": "Browser automation framework",
-    "description": "Remove unused async from eventsHelper dispose callback — sync removeListener wrapped in needless Promise",
-    "stars": "91.7k+",
-    "type": "perf",
-    "status": "closed",
-    "language": "TypeScript",
-    "link": "https://github.com/microsoft/playwright/pull/41503",
-    "date": "2026-06-27",
-    "highlighted": false
-  },
-  {
+{
     "name": "grafana/pyroscope",
     "title": "Continuous profiling database",
     "description": "Remove deprecated receivedDecompressedBytes metric superseded by _total variant with stage labels",
