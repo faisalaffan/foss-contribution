@@ -12,6 +12,11 @@ Fitur signifikan, perubahan arsitektur, atau bug fix yang tidak obvious.
 
 | No | Proyek        | Bahasa | Tipe    | Deskripsi                                                    | Status     | Link                                                     | Study Case                                                | PR Date      |
 | -- | ------------- | ------ | ------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | ------------ |
+| 11 | [microsoft/playwright](https://github.com/microsoft/playwright) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🐛 Bug Fix  | Ganti catch{} kosong di ariaSnapshot dengan debugLogger; throw pada pelanggaran integritas fixture | ⏳ Pending | [PR #41502](https://github.com/microsoft/playwright/pull/41502) | [Detail](contributions/playwright-aria-fixture-error.id.md) | 27 Jun 2026 |
+| 10 | [microsoft/playwright](https://github.com/microsoft/playwright) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | ⚡ Performance | Angkat 6 literal regex yang dikompilasi berulang ke konstanta module-level | ❌ Closed | [PR #41501](https://github.com/microsoft/playwright/pull/41501) | [Detail](contributions/playwright-hoist-regex.id.md) | 27 Jun 2026 |
+| 9  | [grafana/pyroscope](https://github.com/grafana/pyroscope)   | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md) | ✨ Feature  | Tambah validasi input untuk units dan aggregationType di ingest handler — 72 test | ⏳ Pending | [PR #5293](https://github.com/grafana/pyroscope/pull/5293) | [Detail](contributions/pyroscope-ingest-validation.id.md) | 26 Jun 2026 |
+| 8  | [grafana/pyroscope](https://github.com/grafana/pyroscope)   | [Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md) | 🔧 Refactor | Hapus metrik deprecated receivedDecompressedBytes yang digantikan varian _total | ⏳ Pending | [PR #5292](https://github.com/grafana/pyroscope/pull/5292) | [Detail](contributions/pyroscope-deprecated-metric.id.md) | 26 Jun 2026 |
+| 7  | [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🐛 Bug Fix  | Perbaiki race condition anySignal() — cek ulang signal.aborted setelah addEventListener | ❌ Closed | [PR #3336](https://github.com/latitude-dev/latitude-llm/pull/3336) | [Detail](contributions/latitude-llm-anysignal.id.md) | 30 May 2026 |
 | 6  | [nuxt/nuxt](https://github.com/nuxt/nuxt)                 | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | ✨ Feature  | Tambah `useDebounce` composable — reactive debouncing, auto-imported, SSR-safe | ⏳ Pending | [PR #35453](https://github.com/nuxt/nuxt/pull/35453) | [Detail](contributions/nuxt-usedebounce.id.md) | 26 Jun 2026 |
 | 5  | [nuxt/nuxt](https://github.com/nuxt/nuxt)                 | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🐛 Bug Fix  | Bungkus `new URL()` dengan try-catch di 6 lokasi untuk mencegah crash pada input tidak valid | ⏳ Pending | [PR #35449](https://github.com/nuxt/nuxt/pull/35449) | [Detail](contributions/nuxt-url-trycatch.id.md) | 26 Jun 2026 |
 | 4  | [ahmadrosid/tinyclaw](https://github.com/ahmadrosid/tinyclaw) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🔒 Security | PathGuard cegah path traversal di write_file/delete_file | ✅ Merged | [PR #4](https://github.com/ahmadrosid/tinyclaw/pull/4) | [Detail](contributions/tinyclaw-tinyclaw.id.md) | 4 Jun 2026 |
@@ -27,59 +32,10 @@ Perbaikan kecil, typo, nil guard, dan improvement minor.
 
 | No | Proyek                               | Bahasa    | Tipe | Deskripsi                                    | Status    | Link                                                          | Study Case                                                         | PR Date      |
 | -- | ------------------------------------ | --------- | ---- | -------------------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ------------ |
+| 4  | [microsoft/playwright](https://github.com/microsoft/playwright) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | 🧹 Chore | Hapus 3 env var flags mati dengan variabel mati berantai | ❌ Closed | [PR #41500](https://github.com/microsoft/playwright/pull/41500) | [Detail](contributions/playwright-unused-env-vars.id.md) | 27 Jun 2026 |
+| 3  | [microsoft/playwright](https://github.com/microsoft/playwright) | [TypeScript](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/TypeScript.md) | ⚡ Performance | Hapus async tidak terpakai dari callback dispose eventsHelper | ❌ Closed | [PR #41503](https://github.com/microsoft/playwright/pull/41503) | [Detail](contributions/playwright-async-dispose.id.md) | 27 Jun 2026 |
 | 2  | [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)     | [Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)   | ✨ Feature  | Tambah Dart cheatsheet dengan Flutter quick reference    | ⏳ Pending | [PR #2219](https://github.com/rstacruz/cheatsheets/pull/2219) | [Detail](contributions/rstacruz-cheatsheets.id.md) | 22 May 2026 |
 | 1  | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | [Markdown](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Markdown.md) | 📝 Docs | Tambah Muhammad Faisal Affan ke daftar Contributors | ✅ Merged | [PR #117480](https://github.com/firstcontributions/first-contributions/pull/117480) | [Detail](contributions/firstcontributions-first-contributions.id.md) | 22 May 2026 |
-
----
-
-## Proyek Open Source Saya
-
-| Proyek | Deskripsi | Bahasa | Bintang |
-|--------|-----------|--------|---------|
-| [banksatu](https://github.com/faisalaffan/banksatu) | One banking platform. Built for everyone — officers and customers alike | — | 0 |
-| [banksatu-ops](https://github.com/faisalaffan/banksatu-ops) | Internal operations platform for bank field officers | — | 0 |
-| [belajardart](https://github.com/faisalaffan/belajardart) | Dasar-dasar pemrograman Dart & Best Practice Flutter | MDX | 0 |
-| [brokenore](https://github.com/faisalaffan/brokenore) | Platform manajemen operasional tambang — lapangan, logistik, laporan | — | 0 |
-| [chainnusa](https://github.com/faisalaffan/chainnusa) | Southeast Asia's on-chain intelligence platform | TypeScript | 0 |
-| [claudio](https://github.com/faisalaffan/claudio) | Anthropic SDK untuk ekosistem Dart | Dart | 1 |
-| [coblosin](https://github.com/faisalaffan/coblosin) | SATU COBLOS "Satu Orang, Satu Coblos, Satu Masa Depan" | HTML | 0 |
-| [creapud](https://github.com/faisalaffan/creapud) | Creative food website with unique food kind inside | Vue | 0 |
-| [cukupgak](https://github.com/faisalaffan/cukupgak) | "Gaji segini udah gede?" — buktikan dengan angka | Vue | 0 |
-| [delook-ecommerce](https://github.com/faisalaffan/delook-ecommerce) | Fashion E-commerce — frontend, mobile, backend, deployment, unit test | — | 0 |
-| [eateel](https://github.com/faisalaffan/eateel) | Sistem FnB untuk platform Pecel Lele | — | 0 |
-| [gedoong](https://github.com/faisalaffan/gedoong) | Platform jual-beli dan sewa properti | Vue | 0 |
-| [geostack](https://github.com/faisalaffan/geostack) | Boilerplate REST API geospasial — Node.js, PostgreSQL/PostGIS | TypeScript | 0 |
-| [gotrick](https://github.com/faisalaffan/gotrick) | Tips dan trik Golang untuk pengembangan masa depan | — | 0 |
-| [jaheet](https://github.com/faisalaffan/jaheet) | Aplikasi clothing & convection dengan modul akuntansi | TypeScript | 0 |
-| [nurture360](https://github.com/faisalaffan/nurture360) | Landing page platform omnichannel — hubungkan setiap touchpoint pelanggan | Vue | 0 |
-| [otoman](https://github.com/faisalaffan/otoman) | OTOmotive for MANy people | — | 0 |
-| [pytik](https://github.com/faisalaffan/pytik) | Don't be the pitik — tools & library produktivitas Python | — | 0 |
-| [solidaritas](https://github.com/faisalaffan/solidaritas) | Smart contract untuk masa depan Indonesia — dibuat dengan Solidity | — | 0 |
-| [testcast](https://github.com/faisalaffan/testcast) | Opinionated Playwright TypeScript scaffolder — arsitektur E2E sekali cast | TypeScript | 1 |
-
----
-
-## Rilis
-
-| Proyek                                   | Versi   | Tanggal    | Tipe        |
-| ---------------------------------------- | ------- | ---------- | ----------- |
-| [cukupgak](https://github.com/faisalaffan/cukupgak)   | v1.0.0  | 2026-05-13 | Stable      |
-| [chainnusa](https://github.com/faisalaffan/chainnusa)  | v0.1.0  | 2026-05-08 | Stable      |
-| [geostack](https://github.com/faisalaffan/geostack)   | v1.0.0  | 2026-05-07 | Stable      |
-| [creapud](https://github.com/faisalaffan/creapud)    | v1.0.0  | 2026-05-04 | Stable      |
-| [testcast](https://github.com/faisalaffan/testcast)   | v1.0.0  | 2026-05-04 | Stable      |
-| [belajardart](https://github.com/faisalaffan/belajardart) | v0.1.0  | 2026-04-30 | Pre-release |
-
----
-
-## Packages & Libraries
-
-| Package                                                      | Ekosistem | Deskripsi                                                |
-| ------------------------------------------------------------ | --------- | -------------------------------------------------------- |
-| [claudio](https://github.com/faisalaffan/claudio)            | Dart      | Anthropic SDK untuk ekosistem Dart                       |
-| [testcast](https://github.com/faisalaffan/testcast)          | TypeScript | Opinionated Playwright TypeScript scaffolder            |
-| [pytik](https://github.com/faisalaffan/pytik)                | Python    | Tools & library produktivitas Python                     |
-| [geostack](https://github.com/faisalaffan/geostack)          | TypeScript | Boilerplate REST API geospasial — Node.js, PostgreSQL/PostGIS |
 
 ---
 
@@ -90,6 +46,8 @@ Perbaikan kecil, typo, nil guard, dan improvement minor.
 - 📝 Docs
 - ⚡ Performance
 - 🔒 Security
+- 🔧 Refactor
+- 🧹 Chore
 
 ---
 
